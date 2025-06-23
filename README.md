@@ -44,4 +44,4 @@
 ├── transformers.ipynb       # Предобученная модель
 ├── .gitignore               # gitignore
 ├── README.md                # Описание проекта
-
+├── requirements.txt         # requirements
